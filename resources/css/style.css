@@ -1,29 +1,45 @@
-* {
-  background-color: #000;
-  font-family: verdana;
-}
 
 h1 {
-  font-weight:normal;
+  font-family: Verdana;
   font-size: 50px;
-  color: #fff;
+  color: white;
   text-align: center;
 }
-
-h2 {
+.download {
+  font-family: Verdana;
+  color: AquaMarine;
+  font-size: 16px;
+  text-align: center;
+}
+html {
+  background-color: black;
+}
+.video {
+  text-align: center;
+}
+h2,p {
+  font-family: Verdana;
   font-weight: 300;
   font-size: 42px;
   color: white;
-}
-
-a {
-  font-size: 16px;
-  color: aquamarine;
-}
-
-p {
   text-align: center;
+}
+h3 {
   font-size: 21px;
+  font-family: Verdana;
   color: gray;
-
+  text-align: center;
+}
+.camp {
+  text-align: center;
+}
+.iphone {
+  text-align: center;
+  margin-top: 20px;
+}
+h5 {
+  font-size: 21px;
+  font-family: Verdana;
+  color: gray;
+  text-align: right;
 }
