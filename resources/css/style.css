@@ -1,12 +1,12 @@
 html, body {
-  background: black;
+  background: #000;
 }
 
 h1 {
   font-family: verdana;
   font-weight:normal;
   font-size: 50px;
-  color: white;
+  color: #fff;
   text-align: center;
 }
 
